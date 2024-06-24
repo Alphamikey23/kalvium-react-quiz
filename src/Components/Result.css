@@ -1,0 +1,55 @@
+.result-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .result-header {
+    font-size: 24px;
+    color: #28a745; 
+    margin-bottom: 10px;
+  }
+  
+  .result-content {
+    margin-bottom: 20px;
+  }
+  
+  .result-score {
+    font-size: 28px;
+    color: #007bff; 
+    margin-bottom: 10px;
+  }
+  
+  .result-stats {
+    font-size: 18px;
+    color: #000; 
+    margin-bottom: 10px;
+  }
+  
+  .result-buttons {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .result-buttons button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .result-buttons .play-again-btn {
+    background-color: #007bff; 
+    color: #fff; 
+  }
+  
+  .result-buttons .home-btn {
+    background-color: #dc3545; 
+    color: #000; 
+  }
+  
